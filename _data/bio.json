@@ -2,7 +2,7 @@
   "basics": {
     "name": "Salina Thongsisavath",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "../img/salina_grad.jpeg",
     "email": "salinat@hawaii.edu",
     "phone": "808-379-9628",
     "website": "https://salina-t.github.io",
@@ -11,7 +11,6 @@
     "profiles": [
       { "network": "github", "username": "salina-t", "url": "http://github.com/salina-t" },
       { "network": "linkedin", "username": "Salina Thongsisavath", "url": "www.linkedin.com/in/salina-thongsisavath-17a8a3289" },
-      { "network": "twitter", "username": "N/A", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
