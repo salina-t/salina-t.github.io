@@ -1,54 +1,26 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "E10: Reflection on Javascript"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-08-29
 published: true
 labels:
-  - Engineering
+  - Javascript
+  - Reflection
+  - Essay
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/javascript.png">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+I was first introduced to Javascript in my “Introduction to Computer Science” class in my Junior year of high school, so I was relatively familiar with the programming language coming into this course. Since the class that I took was an introduction class, I learned and explored the basics of Javascript. Ever since then, I haven’t been coding in Javascript very often, so my knowledge of this language was not as strong. However, completing the freeCodeCamp exercises was really helpful to refresh my memory and learn new tools and techniques I could use in the future. Completing those exercises helped me recognize the extended functionality and tools that Javascript offers to its users. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Javascript is very similar to Java. Since I am most familiar with Java, the similarity gave me reassurance while completing the freeCodeCamp exercises and WODs. Both languages have similar syntax styles and are widely used in front-end development. Despite their similarities, they also have their differences that make them unique. For example, Java is a programming language that utilizes a virtual machine to help compile programs, giving the language a lot of flexibility to be run on any platform or operating system. On the other hand, Javascript is a scripting programming language that utilizes a Just-In-Time (JIT) compiler to make Javascript code executable. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Overall, Javascript is a useful and flexible programming language. Javascript allows its users a lot of versatility in subjects such as object-oriented programming and web development, which allows many opportunities to be developed using Javascript. In addition to Javascript’s versatility, it is also very efficient in terms of speed, memory, and therefore performance. This strength in performance makes it very popular in front-end development, as well as the fact that it is executed using a JIT compiler, which makes Javascript code universal and ubiquitous. Javascript also supports asynchronous programming, which enables programs to run multiple operations at the same time, without blocking execution of other code. This, in turn, makes Javascript very fast and efficient. As well as being a powerful language, Javascript is also very user-friendly, which makes it a welcoming language to beginner programmers. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+As I was completing the freeCodeCamp modules, I found that the exercises under the ES6 module were more challenging than the Javascript basics, but I was still able to complete them. I think the part I had the most trouble with was the destructuring exercises, but I decided to redo them later so I could get a stronger understanding of them. ES6 is a very minimalistic language that allows users to write clean and concise code. This can be both an advantage and disadvantage as it may make code more readable but may be confusing to new users, or difficult to trace. 
 
-Here's what I think: the difficult things will always be difficult.
+Athletic software engineering is a great practice to optimize speed and mentality in programmers. This style of learning may be stressful because of unknown prompts and scenarios, however, it reflects real-life situations where programmers will face bugs and challenges with no warning. Getting into the habit of practicing athletic software engineering will benefit programmers by encouraging them to look at problems in a sharp way, to complete them efficiently and in a timely manner. Additionally, at the end of the exercises, programmers will tend to feel accomplished and proud of themselves, making the activities enjoyable. 
 
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Speaking from experience, I find myself overthinking the WODs way more than I need to. I am afraid of not being able to solve the problems but I think it is natural to feel anxious about something that is unknown. With more and more practice with the WODs, I gained a sense of confidence and determination to complete them proficiently and punctually. Although it might be every student’s least favorite way of testing their skills and knowledge, I think we all internally know that it is for our own benefit. 
