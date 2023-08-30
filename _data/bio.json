@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Salina Thongsisavath",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "email": "salinat@hawaii.edu",
+    "phone": "808-379-9628",
+    "website": "https://salina-t.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "salina-t", "url": "http://github.com/salina-t" },
+      { "network": "linkedin", "username": "Salina Thongsisavath", "url": "www.linkedin.com/in/salina-thongsisavath-17a8a3289" },
+      { "network": "twitter", "username": "N/A", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
     { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software engineering" },
+    { "name": "Computer Science" },
+    { "name": "Data structures" },
+    { "name": "Computer engineering" }
   ],
   "skills": [
     {
