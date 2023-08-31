@@ -16,7 +16,7 @@
   "interests": [
     { "name": "Interactive media" },
     { "name": "Software engineering" },
-    { "name": "Computer Science" },
+    { "name": "App development" },
     { "name": "Data structures" },
     { "name": "Computer engineering" }
   ],
@@ -76,7 +76,7 @@
   "volunteer": [
     {
       "organization": "Development Team",
-      "website": "http://manoa.hawaii.edu/reis",
+      "website": "",
       "position": "Vice president",
       "startDate": "2021",
       "endDate": "2022",
