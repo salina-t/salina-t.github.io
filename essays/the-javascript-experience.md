@@ -11,7 +11,7 @@ labels:
   - Essay
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/javascript.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/the-javascript-experience/javascript.png">
 
 I was first introduced to Javascript in my “Introduction to Computer Science” class in my Junior year of high school, so I was relatively familiar with the programming language coming into this course. Since the class that I took was an introduction class, I learned and explored the basics of Javascript. Ever since then, I haven’t been coding in Javascript very often, so my knowledge of this language was not as strong. However, completing the freeCodeCamp exercises was really helpful to refresh my memory and learn new tools and techniques I could use in the future. Completing those exercises helped me recognize the extended functionality and tools that Javascript offers to its users. 
 

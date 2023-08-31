@@ -9,7 +9,7 @@ labels:
   - Photos
   - Filters
   - Pixels
-  - RPG Values
+  - RGB Values
 summary: "A project with a variety of filters I created that users can apply to their photos."
 ---
 
