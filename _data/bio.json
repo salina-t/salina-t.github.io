@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "salina-t", "url": "http://github.com/salina-t" },
-      { "network": "linkedin", "username": "Salina Thongsisavath", "url": "www.linkedin.com/in/salina-thongsisavath-17a8a3289" },
-      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "Salina Thongsisavath", "url": "https://www.linkedin.com/in/salina-thongsisavath-17a8a3289" }
     ]
   },
   "interests": [
@@ -23,12 +22,16 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "name": "Languages",
+      "keywords": [ "Lao", "Thai", "English" ]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Microsoft Windows", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -44,69 +47,90 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Thai Issan Cuisine",
+      "position": "Waitress",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-05-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "More positions: Hostess, Cashier",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assisted customers by providing information and resolving any complaints",
+        "Prepared a variety of foods and beverages according to customers",
+        "Operate restaurant's computer systems and administer payments"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Private Math Tutor",
+      "position": "",
+      "website": "",
+      "startDate": "2022-08-20",
+      "endDate": "2023-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Collaborated with students to complete homework assignments, lagging skills, and correct weaknesses",
+        "Motivate students towards learning and studying to build strong foundation",
+        "Subjects ranged from Algebra I to Calculus I"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Development Team",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "position": "Vice president",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Team manager",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Introduce team to Flutter, Dart, and GitHub",
+        "Schedule, organize, and lead team meetings"
       ]
     },
     {
-      "organization": "",
+      "organization": "World Language Learning Center",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Representative",
+      "startDate": "2021",
+      "endDate": "2022",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Speech Fest participant/performer",
+        "Teach middle school students basic Spanish",
+        "Inspire middle school students to take a language course in high school",
+        "Tutor high school students in Spanish"
+      ]
+    },
+    {
+      "organization": "Youth Advisory Council",
+      "website": "",
+      "position": "Leader",
+      "startDate": "2020",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": ["Volunteered 3x a week at a high school and community food pantry",
+        "Organize a health and wellness campaign",
+        "Update and maintain a physical/mental health and wellness blog"
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2022-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit ScholarShip",
+      "date": "2022-Present",
+      "awarder": "State of Hawaii",
+      "summary": "An automatic scholarship per year for four years of undergraduate study for first-time degree-seeking students. Students must have a 3.8 GPA."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Recognizes students with an excellent academic record, Minimumm current grade point average of 3.5 for 12 or more credits of academic coursework."
     }
   ],
   "references": [
