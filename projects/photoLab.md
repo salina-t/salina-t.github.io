@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: ../img/photoLab/photoLab_icon.jpg
 title: "PhotoLab"
 date: 2022
 published: true
@@ -78,4 +78,4 @@ More examples:
 
 
 
-You can learn more at my github link [here](https://github.com/salina-t/Maze-Runner).
+You can learn more at my GitHub link [here](https://github.com/salina-t/photoLab).

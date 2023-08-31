@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mazeRunner/mazeRunner_thumbnail.png
+image: ../img/mazeRunner/maze_icon.png
 title: "Maze Runner"
 date: "2022"
 published: true
@@ -80,4 +80,4 @@ X   X X X
 
 
 
-You can learn more at my github link [here](https://github.com/salina-t/Maze-Runner).
+You can learn more at my GitHub link [here](https://github.com/salina-t/Maze-Runner).

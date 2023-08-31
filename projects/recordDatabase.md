@@ -93,4 +93,4 @@ Account Address: 422 Tree Ave. 97622
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+You can learn more at my GitHub link [here](https://github.com/salina-t/Record-Database).
