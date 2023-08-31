@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "Lao", "Thai", "English" ]
+      "keywords": [ "Lao", "Thai", "Vietnamese", "English" ]
     },
     {
       "name": "Programming Languages",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Microsoft Windows", "Git/GitHub" ]
+      "keywords": [ "Microsoft Windows", "Git/GitHub", "Jupyter Notebook" ]
     }
   ],
   "education": [
@@ -42,6 +42,8 @@
       "startDate": "2022-09-01",
       "endDate": "Present",
       "courses": [
+        "Software Engineering I", "Algorithms", "Program Structure",
+        "Discrete Mathematics I & II", "Introduction to Computer Science I & II"
       ]
     }
   ],
