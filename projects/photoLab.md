@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/photoLab/photoLab_icon.jpg
+image: ../img/photoLab/photoLab_icon.png
 title: "PhotoLab"
 date: 2022
 published: true

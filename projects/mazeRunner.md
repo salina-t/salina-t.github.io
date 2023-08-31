@@ -12,7 +12,7 @@ labels:
 summary: "An adventure-style, role-playing game I created in my AP Computer Science A class."
 ---
 
-<img class="img-fluid" src="../img/mazeRunner/mazeRunner_thumbnail.jpeg" width="400" alt="image">
+<img class="img-fluid" src="../img/mazeRunner/maze_icon.png" width="400" alt="image">
 
 Maze Runner is a role-playing game that I created as a solo project in my high school AP Computer Science A course (2022). The project helped me learn how to design and implement a responsive game using
 Java.
