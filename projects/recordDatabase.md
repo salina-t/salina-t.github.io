@@ -13,7 +13,9 @@ summary: "A database created to edit and save records with different properties 
           file that is updated every time the program is launched."
 ---
 
+<div class="text-center p-4">
 <img class="img-fluid" src="../img/Record_Database/record_database_header.png" width="400" alt="picture">
+</div>
 
 Record Database is a program I created for my ICS 212 class using C++ and Java. This program uses linked lists
 to efficiently store an object called "Record", which includes multiple elements such as name, account number, and address. 
@@ -23,7 +25,7 @@ Here is an excerpt from one run:
 
 <hr>
 
-<pre>
+```
 Welcome to the bank database.
 To access the database, please select an option:
 
@@ -88,8 +90,7 @@ USER: printall
 Account Number: 123
 Account Name: Greg Johnson 
 Account Address: 422 Tree Ave. 97622
-
-</pre>
+```
 
 <hr>
 
