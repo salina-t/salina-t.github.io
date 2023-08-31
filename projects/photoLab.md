@@ -14,8 +14,8 @@ summary: "A project with a variety of filters I created that users can apply to 
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/photoLab/photoLab_1.png" class="img-thumbnail" >
-  <img width="400px" src="../img/photoLab/photoLab_2.png" class="img-thumbnail" >
+  <img width="400" src="../img/photoLab/photoLab_1.png" class="img-thumbnail" >
+  <img width="400" src="../img/photoLab/photoLab_2.png" class="img-thumbnail" >
 </div>
 
 PhotoLab is a project I created in my AP Computer Science A class in 2022. This project explored the concept of using Java code to create filters 
