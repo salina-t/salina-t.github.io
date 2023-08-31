@@ -7,9 +7,7 @@ date: "2023"
 published: true
 labels:
   - Object-oriented programming 
-  - User interface 
-  - Memory usage 
-  - Information security
+  - User interface  
   - Writing and saving files 
 summary: "A database created to edit and save records with different properties to a
           file that is updated every time the program is launched."
