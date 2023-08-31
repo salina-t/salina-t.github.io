@@ -2,56 +2,95 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Record Database"
+date: 2023
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Object-oriented programming 
+  - User interface 
+  - Memory usage 
+  - Information security
+  - Writing and saving files 
+summary: "A database created to edit and save records with different properties to a
+          file that is updated every time the program is launched."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/Record_Database/record_database_header.png" width=" 400">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Record Database is a program I created for my ICS 212 class using C++ and Java. This program uses linked lists
+to efficiently store an object called "Record", which includes multiple elements such as name, account number, and address. 
+This project was designed with emphasis in object-oriented programming, user interface, optimization of memory usage, and information security. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+Here is an excerpt from one run:
 
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Welcome to the bank database.
+To access the database, please select an option:
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+add: add a new record in the database
+printall: print all records in the database
+find: find record(s) with a specified account #
+delete: delete existing record(s) from the database using the account #
+quit: quit the program
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+USER: add
 
-pickup candle
-- you are now carrying the candle -
+Please enter your account number
 
-pickup match
-- you are now carrying the match -
+USER: 123
 
-light match candle
+Please enter your name
 
-The candle is now lit. It illuminates everything in the room.
+USER: Greg Johnson
 
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
+PLease enter your address. Enter the "%" character to enter
+
+USER: 422 Tree Ave. 97622 %
+
+Action completed. Please select a new option. 
+
+add: add a new record in the database
+printall: print all records in the database
+find: find record(s) with a specified account #
+delete: delete existing record(s) from the database using the account #
+quit: quit the program
+
+USER: quit
+
+*restart program* 
+
+-----------------------DEBUG MODE INFORMATION-----------------------
+FUNCTION: readfile
+
+--------------------------------------------------------------------
+
+-----------------------DEBUG MODE INFORMATION-----------------------
+FUNCTION: addRecord
+PARAMETERS:
+(int) accountno: 123
+char []) name: Greg Johnson
+(char []) address: 422 Tree Ave. 97622
+--------------------------------------------------------------------
+
+Debug Mode ON
+
+Welcome to the bank database.
+To access the database, please select an option:
+
+add: add a new record in the database
+printall: print all records in the database
+find: find record(s) with a specified account #
+delete: delete existing record(s) from the database using the account #
+quit: quit the program
+
+USER: printall
+
+Account Number: 123
+Account Name: Greg Johnson 
+Account Address: 422 Tree Ave. 97622
+
 </pre>
 
 <hr>
