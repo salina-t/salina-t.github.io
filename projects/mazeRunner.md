@@ -37,7 +37,7 @@ file handling (both reading and writing), as well as mapping values to construct
 Through the experience of creating Maze Runner, I not only acquired a deeper understanding of fundamental programming
 principles but also practiced the ability to apply them effectively. 
 
-Here is a sample of what Maze Runner looks like:
+## Here is a sample of what Maze Runner looks like:
 ```
 ╔══════════《✧》═════════╗
           WELCOME.		 

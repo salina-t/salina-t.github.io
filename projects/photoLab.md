@@ -18,17 +18,27 @@ summary: "A project with a variety of filters I created that users can apply to 
   <img width="400" src="../img/photoLab/photoLab_2.png" class="img-thumbnail" >
 </div>
 
-PhotoLab is a project I created in my AP Computer Science A class in 2022. This project explored the concept of using Java code to create filters 
-for photos by adjusting RGB (red, green, blue) values of pixels that make up a photo. 
+## About this Project
+PhotoLab is a project I developed as part of my AP Computer Science A coursework in 2022. 
+This project explored the concept of using the Java programming language to create filters 
+for photos by adjusting and manipulating RGB (red, green, blue) values of pixels that make up a photo. 
 
-This was a solo project that followed a set of standards describing the expected outcome, though students were responsible for 
-programming code to reach the desired outcome.
+PhotoLab demanded meticulous programming to achieve the desired outcomes, as it required a lot of 
+attention to detail to transform images in different ways.
 
-PhotoLab encouraged me to think about photos in terms of purely pixels with numeric RGB values and an X and Y axis. This project
-helped me gain more experience in converting hex to decimal numbers and thinking about photo filters from a more intense and mathematical 
-point of view. 
+This project also emphasized the significance of creating helper methods, which served as tools that
+could be universally used to manipulate pixels, yet when used in different arrangements, can produce
+completely unique filters. 
 
-Here is some code and photos from photoLab:
+## Pixel by Pixel
+
+PhotoLab reshaped the way I perceive images by transforming them into intricate arrangements of numeric 
+RGB values aligned along X and Y axes. Moreover, this project encouraged me to view pixels from an 
+analytical point of view, as every pixel has numeric values (RGB value). Additionally, this project
+also helped me gain more practice in converting hex to decimal numbers.
+
+
+## Here is some code and photos from photoLab:
 
 ``` 
 public void pixelate() {
