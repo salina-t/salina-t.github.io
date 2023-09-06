@@ -22,10 +22,12 @@ not only saves time but also enhances the effectiveness of communication.
 Eric Raymond's principles to asking smart questions are very advantageous to software engineers in 
 several ways. They aim to build a better curriculum whilst exchanging information that reduces vagueness,
 saves time for both questioners and responders, and facilitate efficient collaboration in the software 
-development community. 
+development community.
+
+<br/>
 
 ##  Back to the Drawing Board
-<img width="450" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-1.png" style="display: inline ">
+<img width="450" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-1.png">
 
 Taking a look at [**this forum post**](https://stackoverflow.com/questions/69864780/when-i-run-this-code-i-get-this-error-why) on StackOverflow, there are several red flags that determine this 
 as a bad question. Firstly, the title of this forum is as vague as it gets, with no context
@@ -50,7 +52,7 @@ significance to leave a lasting impact on them.
 
 ## A Work of Art 
 
-<img width="400" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-2.png" style="display: inline">
+<img width="400" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-2.png">
 
 
 Next, let's take a look at [**this forum post**](https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java) 
