@@ -11,7 +11,7 @@ labels:
   - Improvement
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/after-the-first-storm/after-the-first-storm-icon.jpg">
+<img width="400" class="rounded float-start pe-4" src="../img/after-the-first-storm/after-the-first-storm-icon.jpg">
 
 ## Preparation
 
