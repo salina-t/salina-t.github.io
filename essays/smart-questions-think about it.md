@@ -11,10 +11,10 @@ labels:
   - Reflection
 ---
 
-<img width="300" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-icon.png">
+<img width="300" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-icon.png" style="display: block">
 
 ## What are Smart Questions?
-
+    
 "Smart Questions" as described by Eric Raymond in "How to Ask Questions the Smart Way" are questions
 that are thoughtfully formulated, and rich in detail and clarity. This approach to asking questions
 not only saves time but also enhances the effectiveness of communication. 
@@ -27,7 +27,7 @@ development community.
 <br/>
 
 ##  Back to the Drawing Board
-<img width="450" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-1.png">
+<img width="450" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-1.png" style="display: block">
 
 Taking a look at [**this forum post**](https://stackoverflow.com/questions/69864780/when-i-run-this-code-i-get-this-error-why) on StackOverflow, there are several red flags that determine this 
 as a bad question. Firstly, the title of this forum is as vague as it gets, with no context
