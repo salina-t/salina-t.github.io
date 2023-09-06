@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="300" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-icon.png" style="display: block">
+<img width="300" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-icon.png">
 
 ## What are Smart Questions?
     
