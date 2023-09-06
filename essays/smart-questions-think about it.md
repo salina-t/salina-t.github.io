@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="400" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-icon.png">
+<img width="300" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-icon.png">
 
 ## What are Smart Questions?
 
@@ -25,11 +25,9 @@ saves time for both questioners and responders, and facilitate efficient collabo
 development community. 
 
 ##  Back to the Drawing Board
-<div class="text-center p-4">
-<img class="img-fluid" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-1.png" width="400" alt="image">
-</div>
+<img width="450" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-1.png">
 
-Taking a look at [this forum post](https://stackoverflow.com/questions/69864780/when-i-run-this-code-i-get-this-error-why) on StackOverflow, there are several red flags that determine this 
+Taking a look at [**this forum post**](https://stackoverflow.com/questions/69864780/when-i-run-this-code-i-get-this-error-why) on StackOverflow, there are several red flags that determine this 
 as a bad question. Firstly, the title of this forum is as vague as it gets, with no context
 to the user's predicament. Next, with a quick Google search of the error the user received in
 verbatim, countless solutions are provided. The user posted this forum in 2021, whereas if they had
@@ -52,11 +50,10 @@ significance to leave a lasting impact on them.
 
 ## A Work of Art 
 
-<div class="text-center p-4">
-<img class="img-fluid" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-2.png" width="400" alt="image">
-</div>
+<img width="400" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-2.png">
 
-Next, let's take a look at [this forum post](https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java) 
+
+Next, let's take a look at [**this forum post**](https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java) 
 that was also from StackOverflow. In this exchange, the questioner runs into a bug while comparing strings and
 becomes curious about the different equal operators that are available in Java. 
 At first glance, this post shows good signs by being thoughtfully written with clear, polite, and grammatically 
