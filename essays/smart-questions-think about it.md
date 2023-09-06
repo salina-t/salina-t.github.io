@@ -25,7 +25,7 @@ saves time for both questioners and responders, and facilitate efficient collabo
 development community. 
 
 ##  Back to the Drawing Board
-<img width="450" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-1.png">
+<img width="450" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-1.png" style="display: inline ">
 
 Taking a look at [**this forum post**](https://stackoverflow.com/questions/69864780/when-i-run-this-code-i-get-this-error-why) on StackOverflow, there are several red flags that determine this 
 as a bad question. Firstly, the title of this forum is as vague as it gets, with no context
@@ -50,7 +50,7 @@ significance to leave a lasting impact on them.
 
 ## A Work of Art 
 
-<img width="400" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-2.png">
+<img width="400" class="rounded float-start pe-4" src="../img/smart-questions-think-about-it/smart-questions-think-about-it-picture-2.png" style="display: inline">
 
 
 Next, let's take a look at [**this forum post**](https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java) 
@@ -71,7 +71,7 @@ operator in Java and when and why they would be used for different contexts. The
 the questioner with a snippet of code to give the questioner examples of each equals-comparison operator.
 (As provided in the block of code below)
 
-```agsl
+```java
 // These two have the same value
 new String("test").equals("test") // --> true 
 
