@@ -11,7 +11,7 @@ labels:
   - Benefits
 ---
 
-<img width="400" class="rounded float-start pe-4" src="../img/coding-standards-love-hate/coding-standards-icon.png" alt="image">
+<img width="500" class="rounded float-start pe-4" src="../img/coding-standards-love-hate/coding-standards-icon.png" alt="image">
 
 ## What are Coding Standards?
 
