@@ -11,7 +11,6 @@ labels:
   - Bootstrap
   - HTML/CSS
 ---
-<!--To do! Add a picture to the website.-->
 <img width="560" class="rounded float-start pe-4" src="../img/the-power-of-ui-frameworks/ui-frameworks.png" alt="image">
 
 ## The Purpose of UI Frameworks
