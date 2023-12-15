@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/askus-chatbot/chatwithus-icon.jpg
+image: ../img/askus-chatbot/askus-chatbot-icon.png
 title: "UH ITS AskUs AI Chatbot (HACC 2023)"
 date: "2023-10"
 published: true
