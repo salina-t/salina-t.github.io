@@ -13,7 +13,7 @@ labels:
   - Google Cloud Platform
   - TypeScript
   - Acceptance Testing
-summary: "The current UH ITS AskUs system relies on keyword searches. To improve this process, my team and I constructed a conversational AI chatbot trained on the ITS knowledge base. The goal of this project is to elevate user satisfaction, reduce workloads, and optimize support procedures by introducing a more user-friendly interface."
+summary: "The goal of this project is to elevate user satisfaction, reduce workloads, and optimize support procedures by introducing a more user-friendly interface."
 ---
 
 <div class="text-center p-4">
