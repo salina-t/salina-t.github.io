@@ -14,11 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
     { "name": "Software engineering" },
     { "name": "App development" },
-    { "name": "Data structures" },
-    { "name": "Computer engineering" }
+    { "name": "Web development" },
+    { "name": "Software development" }
   ],
   "skills": [
     {
