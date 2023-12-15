@@ -17,7 +17,7 @@
     { "name": "Software engineering" },
     { "name": "App development" },
     { "name": "Web development" },
-    { "name": "Software development" }
+    { "name": "UX/UI Design" }
   ],
   "skills": [
     {
@@ -25,12 +25,12 @@
       "keywords": [ "Lao", "Thai", "Vietnamese", "English" ]
     },
     {
-      "name": "Programming Languages",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "name": "Programming Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React", "Meteor", "TailwindCSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Microsoft Windows", "Git/GitHub", "Jupyter Notebook" ]
+      "keywords": [ "Microsoft Windows", "Git/GitHub", "Jupyter Notebook", "JetBrains", "DigitalOcean" ]
     }
   ],
   "education": [
@@ -76,6 +76,30 @@
   ],
   "volunteer": [
     {
+      "organization": "HACC 2023 - UH ITS AskUs Chatbot",
+      "website": "https://github.com/bruhgroup/its-knowledge-base",
+      "position": "Software Engineer & UI Designer",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "Developed a chatbot for the University of Hawaii Information Technology Services (ITS) department to help students with common questions. Utilized UH ITS help articles for contextual understanding.",
+      "highlights": [
+        "Employed Python Langchain and Meta's LLAMA2 models to independently host a local LLM Chatbot on Google Cloud Platform (GCP).",
+        "Developed the frontend utilizing Next.js, Typescript, and Tailwind CSS. PostgreSQL for the database."
+      ]
+    },
+    {
+      "organization": "PANDA - UH Manoa",
+      "website": "https://acmmanoa.org/pages/clubs/panda/",
+      "position": "Member",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "PANDA is a student organization at the University of Hawaii at Manoa that is dedicated to studying and applying algorithms in programming.",
+      "highlights": [
+        "Participate in weekly meetings to discuss algorithms and data structures",
+        "Practice solving algorithm problems to prepare for coding interviews"
+      ]
+    },
+    {
       "organization": "Development Team",
       "website": "",
       "position": "Vice president",
@@ -85,32 +109,6 @@
       "highlights": [
         "Introduce team to Flutter, Dart, and GitHub",
         "Schedule, organize, and lead team meetings"
-      ]
-    },
-    {
-      "organization": "World Language Learning Center",
-      "website": "",
-      "position": "Representative",
-      "startDate": "2021",
-      "endDate": "2022",
-      "summary": "",
-      "highlights": [
-        "Speech Fest participant/performer",
-        "Teach middle school students basic Spanish",
-        "Inspire middle school students to take a language course in high school",
-        "Tutor high school students in Spanish"
-      ]
-    },
-    {
-      "organization": "Youth Advisory Council",
-      "website": "",
-      "position": "Leader",
-      "startDate": "2020",
-      "endDate": "2020",
-      "summary": "",
-      "highlights": ["Volunteered 3x a week at a high school and community food pantry",
-        "Organize a health and wellness campaign",
-        "Update and maintain a physical/mental health and wellness blog"
       ]
     }
   ],
