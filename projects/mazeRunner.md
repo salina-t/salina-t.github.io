@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/mazeRunner/maze_icon.png
 title: "Maze Runner"
-date: "2022"
+date: "2022-00-1"
 published: true
 labels:
   - Game
