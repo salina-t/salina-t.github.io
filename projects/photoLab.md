@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/photoLab/photoLab_icon.png
 title: "PhotoLab"
-date: "2022-00-1"
+date: "2022-01"
 published: true
 labels:
   - Photos

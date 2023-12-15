@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../img/askus-chatbot/chatwithus-label-page.jpeg
 title: "UH ITS AskUs AI Chatbot (HACC 2023)"
-date: "2023-00-10"
+date: "2023-10"
 published: true
 labels:
   - Large Language Model (LLM)
