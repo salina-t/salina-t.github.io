@@ -17,7 +17,7 @@ summary: "The goal of this project is to elevate user satisfaction, reduce workl
 ---
 
 <div class="text-center p-4">
-<img class="img-fluid" src="../img/askus-chatbot/chatwithus-label-page.jpeg" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+<img class="img-fluid" src="../img/askus-chatbot/chatwithus-label-page.jpeg" width="1600px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
 </div>
 
 ## About the Project
@@ -28,9 +28,9 @@ The goal of this project is to elevate user satisfaction, reduce workloads, and 
 
 The UH ITS AskUS Chatbot was built using a blend of TypeScript, Python, Javascript, HTML, and CSS programming languages.
 
-<img class="img-fluid" src="../img/askus-chatbot/chatbot-example-convo.png" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+<img class="img-fluid" src="../img/askus-chatbot/chatbot-example-convo.png" width="600px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
 
-<img class="img-fluid" src="../img/askus-chatbot/demopage-png.png" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+<img class="img-fluid" src="../img/askus-chatbot/demopage-png.png" width="600px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
 
 ## My Contributions to the Project
 
@@ -42,7 +42,7 @@ I also gathered user feedback and conducted acceptance testing to ensure the cha
 
 One noteable feature my team and I implemented was the admin analytics system. This system allows administrators to view user feedback and insights, as well as view the chatbot's performance. This feature was implemented to help administrators improve the chatbot and user experience.
 
-<img class="img-fluid" src="../img/askus-chatbot/adminanalytics-page.png" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+<img class="img-fluid" src="../img/askus-chatbot/adminanalytics-page.png" width="600px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
 
 ## Challenges and Rewards
 
