@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="PhotoLab | Salina Thongsisavath | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://avatars.githubusercontent.com/u/97216698?v=4">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Salina Thongsisavath | Professional Portfolio">
+    <meta property="og:url" content="https://salina-t.github.io/projects/photoLab.html">
+    <meta property="og:title" content="PhotoLab | Salina Thongsisavath | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/97216698?v=4">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/darkblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>PhotoLab | Salina Thongsisavath | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Salina Thongsisavath</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">PhotoLab</h1>
+ <div class="text-center p-4">
+  <img width="400" src="../img/photoLab/photoLab_1.png" class="img-thumbnail" />
+  <img width="400" src="../img/photoLab/photoLab_2.png" class="img-thumbnail" />
+</div>
+
+<h2 id="about-this-project">About this Project</h2>
+<p>PhotoLab is a project I developed as part of my AP Computer Science A coursework in 2022. 
+This project explored the concept of using the Java programming language to create filters 
+for photos by adjusting and manipulating RGB (red, green, blue) values of pixels that make up a photo.</p>
+
+<p>PhotoLab demanded meticulous programming to achieve the desired outcomes, as it required a lot of 
+attention to detail to transform images in different ways.</p>
+
+<p>This project also emphasized the significance of creating helper methods, which served as tools that
+could be universally used to manipulate pixels, yet when used in different arrangements, can produce
+completely unique filters.</p>
+
+<h2 id="pixel-by-pixel">Pixel by Pixel</h2>
+
+<p>PhotoLab reshaped the way I perceive images by transforming them into intricate arrangements of numeric 
+RGB values aligned along X and Y axes. Moreover, this project encouraged me to view pixels from an 
+analytical point of view, as every pixel has numeric values (RGB value). Additionally, this project
+also helped me gain more practice in converting hex to decimal numbers.</p>
+
+<h2 id="here-is-some-code-and-photos-from-photolab">Here is some code and photos from photoLab:</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>public void pixelate() {
+    Pixel[][] pix = this.getPixels2D();
+    int counter = 0;
+    int red = 0;
+    int green = 0;
+    int blue = 0;
+
+    //loop through entire image with row major
+    for (int r = 0; r &lt; pix.length; r++) {
+         for (int c = 0; c &lt; pix[r].length; c++) {
+         //saving the values of RGB to create seemly bigger pixels; grouping 10 pixels into 1
+            if (r % 10 == 0) {
+                if (counter == 0) {
+                    red = pix[r][c].getRed();
+                    green =  pix[r][c].getGreen();
+                    blue = pix[r][c].getBlue();
+                }
+                // after 10 long pixels, the counter for pixels restart
+                if (counter == 11) {
+                    counter = 0;
+                // setting the other pixels to the saved values above
+                } else {
+                  pix[r][c].setRed(red);
+                  pix[r][c].setGreen(green);
+                  pix[r][c].setBlue(blue);
+                  counter++;
+                }
+            // if the row value is not a number divisible by 10, set the RGB values to the same RGB values in the row above it
+            } else {
+              pix[r][c].setRed(pix[r-1][c].getRed());
+              pix[r][c].setGreen(pix[r-1][c].getGreen());
+              pix[r][c].setBlue(pix[r-1][c].getBlue());
+            }
+         }
+    }
+}
+</code></pre></div></div>
+<p><img src="../img/photoLab/photoLab_ex_3.png" width="400" height="460" />
+<img src="../img/photoLab/photoLab_ex_4.png" width="400" height="460" /></p>
+
+<p>More examples:</p>
+
+<p><img src="../img/photoLab/photoLab_ex_5.png" width="400" height="460" />
+<img src="../img/photoLab/photoLab_ex_6.png" width="400" height="460" /></p>
+
+<p>You can learn more at my GitHub link <a href="https://github.com/salina-t/photoLab">here</a>.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
