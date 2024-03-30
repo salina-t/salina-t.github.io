@@ -42,17 +42,31 @@
       "endDate": "Present",
       "courses": [
         "Software Engineering I", "Algorithms", "Program Structure",
-        "Discrete Mathematics I & II", "Introduction to Computer Science I & II"
+        "Discrete Mathematics I & II", "Introduction to Computer Science I & II",
+        "Probability and Statistics", "Operating Systems"
       ]
     }
   ],
   "work": [
     {
+      "company": "Hawaiian Humane Society",
+      "position": "Database Coordinator",
+      "website": "https://hawaiianhumane.org/",
+      "startDate": "2024-01-08",
+      "endDate": "Present",
+      "summary": "Finance Administrative Assistant",
+      "highlights": [
+        "Provide Information Technology (IT) Support for the organization",
+        "Work alongside external companies to coordinate/resolve IT projects/issues",
+        "Complete daily cash/sales remote deposit, data gathering and verifying, and certificate tracking"
+      ]
+    },
+    {
       "company": "Thai Issan Cuisine",
       "position": "Waitress",
       "website": "",
       "startDate": "2023-05-20",
-      "endDate": "Present",
+      "endDate": "2024-03-03",
       "summary": "More positions: Hostess, Cashier",
       "highlights": [
         "Assisted customers by providing information and resolving any complaints",
