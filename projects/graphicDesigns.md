@@ -17,12 +17,13 @@ Please note that the following designs were created using Canva and have not bee
 
 
 <div class="text-center p-4">
-<img class="img-fluid" src="../img/graphic-designs/alohaState.png" width="800px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+<img class="img-fluid" src="../img/graphic-designs/alohaState.png" width="800px" height="800px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
 </div>
 
-<img class="img-fluid" src="../img/graphic-designs/unspokenLove.png" width="800px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
 
-<img class="img-fluid" src="../img/graphic-designs/luau.png" width="800px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+<img class="img-fluid" src="../img/graphic-designs/unspokenLove.png" width="800px" height="800px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
 
-<img class="img-fluid" src="../img/graphic-designs/vaxInfographic.png" width="800px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+<img class="img-fluid" src="../img/graphic-designs/luau.png" width="800px" height="800px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+
+<img class="img-fluid" src="../img/graphic-designs/vaxInfographic.png" width="800px" height="800px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
 
