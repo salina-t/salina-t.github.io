@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/website-replicas/dailywhisk-home.png
+image: ../img/website-replicas/icon.png
 title: "Website Replicas"
 date: "2023-09"
 published: true
