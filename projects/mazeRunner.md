@@ -4,7 +4,7 @@ type: project
 image: ../img/mazeRunner/maze_icon.png
 title: "Maze Runner"
 date: "2022-01"
-published: true
+published: false
 labels:
   - Game
   - Polymorphism
