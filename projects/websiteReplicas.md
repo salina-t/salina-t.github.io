@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/askus-chatbot/askus-chatbot-icon.png
+image: ../img/website-replicas/dailywhisk-home.png
 title: "Website Replicas"
 date: "2023-09"
 published: true
@@ -14,6 +14,9 @@ labels:
 summary: "This page showcases replicas of websites I have created using HTML, CSS, JavaScript, Bootstrap, and React. These replicas demonstrate my skills in web development and design."
 ---
 
+This page showcases replicas of websites I have created using HTML, CSS, JavaScript, Bootstrap, and React. These replicas demonstrate my skills in web development and design and were created to practice creating visually appealing websites with different styles and aesthetics. 
+
+Experimenting with different designs and layouts has helped me understand the importance of creating aesthetic websites that are user-friendly and engaging. These replicas have also helped me practice my skills in web development and design, such as creating responsive layouts, using CSS animations, and integrating JavaScript tools.
 
 ## Daily Whisk Website Replica
 
