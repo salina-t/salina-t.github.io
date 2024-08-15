@@ -4,7 +4,7 @@ type: essay
 title: "Project Effort Estimation and Tracking  "
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-15
-published: true
+published: false
 labels:
   - Software Engineering
   - Time Management

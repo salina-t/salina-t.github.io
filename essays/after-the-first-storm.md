@@ -4,7 +4,7 @@ type: essay
 title: "After the First Storm"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-04
-published: true
+published: false
 labels:
   - WODs
   - Motivation

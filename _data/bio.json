@@ -6,7 +6,7 @@
     "email": "salinat@hawaii.edu",
     "phone": "808-379-9628",
     "website": "https://salina-t.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in Fall, 2025. I hope to pursue a career in Software Engineering.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in Spring, 2025. I hope to pursue a career in Software Engineering.",
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "salina-t", "url": "http://github.com/salina-t" },
@@ -50,15 +50,16 @@
   "work": [
     {
       "company": "Hawaiian Humane Society",
-      "position": "Database Coordinator",
+      "position": "Information Technology Specialist",
       "website": "https://hawaiianhumane.org/",
       "startDate": "2024-01-08",
       "endDate": "Present",
-      "summary": "Finance Administrative Assistant",
+      "summary": "",
       "highlights": [
-        "Provide Information Technology (IT) Support for the organization",
-        "Work alongside external companies to coordinate/resolve IT projects/issues",
-        "Complete daily cash/sales remote deposit, data gathering and verifying, and certificate tracking"
+        "Provide technical support for both hardware and software issues across the organization.",
+        "Test, debug, and provide consultation for the company’s internal intranet website.",
+        "Design and maintain forms to ensure secure data transmission and optimal user experience.",
+        "Collaborate with various departments to create efficient IT solutions to enhance organization workflows."
       ]
     },
     {

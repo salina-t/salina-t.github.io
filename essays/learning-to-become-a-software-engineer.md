@@ -4,7 +4,7 @@ type: essay
 title: "Learning to Become a Software Engineer"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-11
-published: true
+published: false
 labels:
   - Software Engineering
   - Reflection

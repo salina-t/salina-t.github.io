@@ -4,7 +4,7 @@ type: essay
 title: "Smart Questions: Think About it"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-05
-published: true
+published: false
 labels:
   - Questions
   - Answers

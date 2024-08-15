@@ -4,7 +4,7 @@ type: essay
 title: "Take It From a Professional"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
-published: true
+published: false
 labels:
   - Guest speaker
   - Learning

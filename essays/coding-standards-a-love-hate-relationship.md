@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standards: A Love-Hate Relationship"
+title: "Coding Standards: Become a Better Programmer"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-19
 published: true
