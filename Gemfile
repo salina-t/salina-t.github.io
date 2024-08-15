@@ -6,8 +6,8 @@ gem "html-proofer"
 gem "jekyll-gist"
 gem "rouge"
 
-# Include tzinfo and tzinfo-data for Windows and JRuby platforms
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", "~> 1.2"
-  gem "tzinfo-data"
-end
+# # Include tzinfo and tzinfo-data for Windows and JRuby platforms
+# platforms :mingw, :x64_mingw, :mswin, :jruby do
+#   gem "tzinfo", "~> 1.2"
+#   gem "tzinfo-data"
+# end
