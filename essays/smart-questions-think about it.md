@@ -73,30 +73,6 @@ operator in Java and when and why they would be used for different contexts. The
 the questioner with a snippet of code to give the questioner examples of each equals-comparison operator.
 (As provided in the block of code below)
 
-```java
-// These two have the same value
-new String("test").equals("test") // --> true 
-
-// ... but they are not the same object
-new String("test") == "test" // --> false 
-
-// ... neither are these
-new String("test") == new String("test") // --> false 
-
-// ... but these are because literals are interned by 
-// the compiler and thus refer to the same object
-"test" == "test" // --> true 
-
-// ... string literals are concatenated by the compiler
-// and the results are interned.
-"test" == "te" + "st" // --> true
-
-// ... but you should really just call Objects.equals()
-Objects.equals("test", new String("test")) // --> true
-Objects.equals(null, "test") // --> false
-Objects.equals(null, null) // --> true
-```
-
 ## The Impact of Smart Questions
 
 In conclusion, asking smart questions is a fundamental skill 
