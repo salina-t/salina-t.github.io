@@ -5,6 +5,7 @@ gem "webrick", "~> 1.7"
 gem "html-proofer"
 gem "jekyll-gist"
 gem "rouge"
+gem "ffi", "< 1.17.0"
 
 # # Include tzinfo and tzinfo-data for Windows and JRuby platforms
 # platforms :mingw, :x64_mingw, :mswin, :jruby do
