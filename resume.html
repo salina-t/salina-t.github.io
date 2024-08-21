@@ -29,10 +29,11 @@ layout: home
           <p class="mb-1">{% include about/social.html url=url name=name label=label %}</p>
         {% endfor %}
       </div>
-      <div class="col">
-        <p class="mb-1 text-end">{{ site.data.bio.basics.location.address }}</p>
-        <p class="mb-1 text-end">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }} {{ site.data.bio.basics.location.postalCode }} {{ site.data.bio.basics.location.countryCode }}</p>
-        <p class="mb-1 text-end">{{ site.data.bio.basics.phone }}</p>
+      <div class="col text-end">
+        <p class="mb-1">{{ site.data.bio.basics.location.address }}</p>
+        <p class="mb-1">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }} {{ site.data.bio.basics.location.postalCode }} {{ site.data.bio.basics.location.countryCode }}</p>
+        <p class="mb-1">{{ site.data.bio.basics.phone }}</p>
+        <img class="mb-1" src="img/ResumePDF.png" width="70px" height="70px" alt="Resume QR Code">
       </div>
     </div>
 
