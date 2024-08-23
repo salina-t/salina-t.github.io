@@ -26,7 +26,7 @@
     },
     {
       "name": "Programming Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React", "Meteor", "TailwindCSS" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML", "CSS","React", "Meteor", "TailwindCSS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -48,6 +48,19 @@
     }
   ],
   "work": [
+    {
+      "company": "University of Hawai'i at Mānoa",
+      "position": "Web Designer/Social Media Coordinator",
+      "website": "https://manoa.hawaii.edu/ipll/",
+      "startDate": "2024-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Design, develop, and maintain a responsive website for the Department of Vietnamese.",
+        "Create, edit, and upload engaging content on social media to promote the Vietnamese Program.",
+        "Research and collaborate with the supervisor to gather feedback, ensuring the website & social media profiles meet the needs of students and staff while reflecting the program’s values. "
+      ]
+    },
     {
       "company": "Hawaiian Humane Society",
       "position": "Information Technology Specialist",
