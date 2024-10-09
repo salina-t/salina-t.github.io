@@ -14,7 +14,7 @@ labels:
 summary: "This ongoing project focuses on developing an egnaging and informative website for the UH Manoa Vietnamese program. As a solo project, I am designing and developing the website to enhance accessibility for students and faculty with resources and information about the program."
 ---
 
-## About the Project 
+## About the Project
 
 This project is an ongoing project I am working on to create a website for the UH Manoa Vietnamese Program. This is a solo project that I designed and am currently working on developing.
 
@@ -24,7 +24,7 @@ In addition to designing and developing the website, I also hold the role of bot
 
 ## Objective 
 
-The objective of this project is transform the outdated Vietnamse Webpage into an engaging platform that captures the interest of students. Currently, the existing site lacks visibility and lacks modern design that will help engage students effectively. The newly designed website will serve as a platform for students to learn more about the program, its faculty, academic programs, and extracurricular activities, encouraging new students to join and expand the exposure of the program. Here is a look at the current Vietnamese Program website:
+The objective of this project is transform the outdated Vietnamese Webpage into an engaging platform that captures the interest of students. Currently, the existing site lacks visibility and lacks modern design that will help engage students effectively. The newly designed website will serve as a platform for students to learn more about the program, its faculty, academic programs, and extracurricular activities, encouraging new students to join and expand the exposure of the program. Here is a look at the current Vietnamese Program website:
 
 <img class="img-fluid" src="../img/vietnameseWebsite/oldVietWebsite.png" width="600px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
 
