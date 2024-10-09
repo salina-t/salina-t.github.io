@@ -26,14 +26,14 @@ In addition to designing and developing the website, I also hold the role of bot
 
 The objective of this project is transform the outdated Vietnamese Webpage into an engaging platform that captures the interest of students. Currently, the existing site lacks visibility and lacks modern design that will help engage students effectively. The newly designed website will serve as a platform for students to learn more about the program, its faculty, academic programs, and extracurricular activities, encouraging new students to join and expand the exposure of the program. Here is a look at the current Vietnamese Program website:
 
-<img class="img-fluid" src="../img/vietnameseWebsite/oldVietWebsite.png" width="600px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+<img class="img-fluid" src="../img/vietnameseWebsite/oldVietWebsite.png" width="6000px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px;" alt="picture">
 
 ## UX/UI Design
 
 The design of the website is inspired by Vietnamese culture and values. Featuring a vibrant color scheme of red and yellow, which reflect the Vietnamese flag, the layout is clean and user-friendly. The homepage will showcase captivating images representing Vietnamese culture, such as the Áo Dài (traditional Vietnamese dress), Phở, and the Trâu Nước (water buffalo). Key sections will include information about faculty, academic programs, events, and contact details. Here is my proposed design for the landing page:
 
 <div class="text-center p-4">
-<img class="img-fluid" src="../img/vietnameseWebsite/LandingPage_Sample_1.png" width="1600px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+<img class="img-fluid" src="../img/vietnameseWebsite/LandingPage_Sample_1.png" width="900px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px;" alt="picture">
 </div>
 
 ## Development
@@ -46,9 +46,9 @@ I have the privilege of working alongside Dr. Jennie Tran, who is the head of th
 
 ### Sample of the Website
 
-<img class="img-fluid" src="../img/vietnameseWebsite/ContactUsPage_Faculty_Sample.png" width="600px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+<img class="img-fluid" src="../img/vietnameseWebsite/ContactUsPage_Faculty_Sample.png" width="600px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px;" alt="picture">
 
-<img class="img-fluid" src="../img/vietnameseWebsite/AboutUsPage_Mission_Sample.png" width="600px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+<img class="img-fluid" src="../img/vietnameseWebsite/AboutUsPage_Mission_Sample.png" width="600px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px;" alt="picture">
 
 ### Learn More
 
