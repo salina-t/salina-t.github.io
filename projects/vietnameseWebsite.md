@@ -11,7 +11,7 @@ labels:
   - CSS
   - Javascript
   - UX/UI Design
-summary: "This ongoing project focuses on developing an egnaging and informative website for the UH Manoa Vietnamese program. As a solo project, I am designing and developing the website to enhance accessibility for students and faculty with resources and information about the program."
+summary: "This ongoing project focuses on developing an engaging and informative website for the UH Manoa Vietnamese program. As a solo project, I am designing and developing the website to enhance accessibility for students and faculty with resources and information about the program."
 ---
 
 <br>
@@ -22,7 +22,7 @@ This project is an ongoing project I am working on to create a website for the U
 
 My passion for both web development and Vietnamese culture has inspired me to take this opportunity to work alongside Dr. Jennie Tran to create a platform that will enhance the visibility of the Vietnamese Program at UH Manoa.
 
-In addition to designing and developing the website, I also hold the role of both president and founder of the UH Manoa Vietnamesse club. My involvement in the Vietnamese community has allowed me to gain insights into the needs of students and faculty within the program, which has helped me create a website that meets those needs while reflecting the program's values.
+In addition to designing and developing the website, I also hold the role of both president and founder of the UH Manoa Vietnamese club. My involvement in the Vietnamese community has allowed me to gain insights into the needs of students and faculty within the program, which has helped me create a website that meets those needs while reflecting the program's values.
 
 ## Objective 
 
