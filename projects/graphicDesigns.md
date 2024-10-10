@@ -15,7 +15,7 @@ summary: "This is a gallery of graphic designs I have created using Canva. These
 
 The following designs were created using Canva. These designs showcase my skills in creating visually appealing and engaging graphics for various purposes, such as infographics, posters, social media graphics, and presentations. Experimenting with different styles of graphic design has helped me understand the importance of creating aesthetic designs that are engaging and informative.
 
-<img src="../img/graphic-designs/viet_clubBanner.png" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
+<img src="../img/graphic-designs/viet_clubBanner.png" width="800px" height="200px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
 <div class="text-center p-4"> This banner was used as a graphic for the Vietnamese Club at UH Manoa. (2024) </div>
 
 <img src="../img/graphic-designs/alohaState.png" width="800px" height="800px" style="margin: 50px auto; display: block; box-shadow: 0 0 10px; width: auto;" alt="picture">
