@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "Salina Thongsisavath",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/97216698?v=4",
+    "email": "salinat@hawaii.edu",
+    "phone": "808-379-9628",
+    "website": "https://salina-t.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in Fall, 2025. I hope to pursue a career in Software Engineering.",
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "salina-t", "url": "http://github.com/salina-t" },
+      { "network": "linkedin", "username": "Salina Thongsisavath", "url": "https://www.linkedin.com/in/salina-thongsisavath-17a8a3289" }
+    ]
+  },
+  "interests": [
+    { "name": "Software engineering" },
+    { "name": "App development" },
+    { "name": "Web development" },
+    { "name": "UX/UI Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "Lao", "Thai", "Vietnamese", "English" ]
+    },
+    {
+      "name": "Programming Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML", "CSS","React", "Meteor", "TailwindCSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Microsoft Windows", "Git/GitHub", "Jupyter Notebook", "JetBrains", "DigitalOcean" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "courses": [
+        "Software Engineering I", "Algorithms", "Program Structure",
+        "Discrete Mathematics I & II", "Introduction to Computer Science I & II",
+        "Probability and Statistics", "Operating Systems"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "University of Hawai'i at Mānoa",
+      "position": "Web Designer/Social Media Coordinator",
+      "website": "https://manoa.hawaii.edu/ipll/",
+      "startDate": "2024-08",
+      "endDate": "Present",
+      "summary": "Working with Dr. Jennie Tran",
+      "highlights": [
+        "Design, develop, and maintain a responsive website for the Department of Vietnamese.",
+        "Create, edit, and upload engaging content on social media to promote the Vietnamese Program.",
+        "Research and collaborate with the supervisor to gather feedback, ensuring the website & social media profiles meet the needs of students and staff while reflecting the program’s values. "
+      ]
+    },
+    {
+      "company": "Hawaiian Humane Society",
+      "position": "Information Technology Specialist",
+      "website": "https://hawaiianhumane.org/",
+      "startDate": "2024-01-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Provide technical support for both hardware and software issues across the organization.",
+        "Test, debug, and provide consultation for the company’s internal intranet website.",
+        "Design and maintain forms to ensure secure data transmission and optimal user experience.",
+        "Collaborate with various departments to create efficient IT solutions to enhance organization workflows."
+      ]
+    },
+    {
+      "company": "Thai Issan Cuisine",
+      "position": "Waitress",
+      "website": "",
+      "startDate": "2023-05-20",
+      "endDate": "2024-03-03",
+      "summary": "More positions: Hostess, Cashier",
+      "highlights": [
+        "Assisted customers by providing information and resolving any complaints",
+        "Prepared a variety of foods and beverages according to customers",
+        "Operate restaurant's computer systems and administer payments"
+      ]
+    },
+    {
+      "company": "Self-employed",
+      "position": "Private Math Tutor",
+      "website": "",
+      "startDate": "2022-08-20",
+      "endDate": "2023-03-15",
+      "summary": "",
+      "highlights": [
+        "Collaborated with students to complete homework assignments, lagging skills, and correct weaknesses",
+        "Motivate students towards learning and studying to build strong foundation",
+        "Subjects ranged from Algebra I to Calculus I"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "HACC 2023 - UH ITS AskUs Chatbot",
+      "website": "https://github.com/bruhgroup/its-knowledge-base",
+      "position": "Software Engineer & UI Designer",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "Developed a chatbot for the University of Hawaii Information Technology Services (ITS) department to help students with common questions. Utilized UH ITS help articles for contextual understanding.",
+      "highlights": [
+        "Employed Python Langchain and Meta's LLAMA2 models to independently host a local LLM Chatbot on Google Cloud Platform (GCP).",
+        "Developed the frontend utilizing Next.js, Typescript, and Tailwind CSS. PostgreSQL for the database."
+      ]
+    },
+    {
+      "organization": "UH Manoa Vietnamese Club",
+      "website": "",
+      "position": "President and Founder",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "The UH Manoa Vietnamese Club is a student organization at the University of Hawaii at Manoa that is dedicated to promoting Vietnamese language and culture.",
+      "highlights": [
+        "Organize and host events to promote Vietnamese culture and language",
+        "Collaborate with other student organizations to host events"
+      ]
+    },
+    {
+      "organization": "Development Team",
+      "website": "",
+      "position": "Vice president",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Team manager",
+      "highlights": [
+        "Introduce team to Flutter, Dart, and GitHub",
+        "Schedule, organize, and lead team meetings"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2022-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Manoa Academic Merit ScholarShip",
+      "date": "2022-Present",
+      "awarder": "State of Hawaii",
+      "summary": "An automatic scholarship per year for four years of undergraduate study for first-time degree-seeking students. Students must have a 3.8 GPA."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Recognizes students with an excellent academic record, Minimumm current grade point average of 3.5 for 12 or more credits of academic coursework."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
